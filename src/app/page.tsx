@@ -13,8 +13,9 @@ export default function Home() {
         </p>
         <p>
           Currently, I'm working on exciting new projects. You can find me on{" "}
-          <a href="https://twitter.com" className="accent-link">Twitter</a> or check out my code on{" "}
-          <a href="https://github.com" className="accent-link">GitHub</a>.
+          <a href="https://twitter.com/csebasdev" target="_blank" rel="noopener noreferrer" className="accent-link">Twitter</a>,{" "}
+          <a href="https://github.com/csebascas" target="_blank" rel="noopener noreferrer" className="accent-link">GitHub</a>, or{" "}
+          <a href="https://www.linkedin.com/in/sebastian-castro-4b5a7230b/" target="_blank" rel="noopener noreferrer" className="accent-link">LinkedIn</a>.
         </p>
       </section>
 

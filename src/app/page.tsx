@@ -11,9 +11,6 @@ export default function Home() {
         <p className="lead">
           I'm a software engineer building tools for the future. I write about code, design, and life.
         </p>
-        <p>
-          Currently building exciting new projects. Find my links below.
-        </p>
       </section>
 
       <section id="projects" className="fade-in" style={{ marginBottom: "4rem", animationDelay: "60ms" }}>

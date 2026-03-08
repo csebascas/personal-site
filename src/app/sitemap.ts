@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 
 export const dynamic = "force-static";
 
-const BASE_URL = "https://csebascas.github.io/personal-site";
+const BASE_URL = "https://csebascas.github.io";
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const posts = getAllPosts();

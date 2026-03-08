@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
             userAgent: "*",
             allow: "/",
         },
-        sitemap: "https://csebascas.github.io/personal-site/sitemap.xml",
+        sitemap: "https://csebascas.github.io/sitemap.xml",
     };
 }
